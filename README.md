@@ -11,6 +11,8 @@ ii) For a given input face-sketch, obtaining an output face-photo
 iii) Recognition of the face-photo or the face-sketch in the database for a given query
 face-sketch or face-photo respectively
 ## Face sketch synthesis 
+![Screenshot 2024-02-03 200328](https://github.com/mitravinda462/Face-photo-sketch-synthesis-and-Recognition/assets/53876415/94f7e4a4-0ceb-4de8-9c9e-e7936b042052)
+
 ### Files required 
 Photo-Sketch.py 
 input.jpg 
@@ -19,6 +21,8 @@ input.jpg
 (give path to input images in Photo-Sketch.py file in ‘path=’/images’’) 
 
 ## Face photo synthesis
+![Screenshot 2024-02-03 200456](https://github.com/mitravinda462/Face-photo-sketch-synthesis-and-Recognition/assets/53876415/d9d2a036-d64c-42b1-a944-7ab34b94e70f)
+
 ### Files required 
 haarcascade_frontalface_default.xml <br>
 training_output_cropped.npy <br>
@@ -37,6 +41,8 @@ CelebA Dataset
 	python3 Prediction.py path_to_sketch.jpg 
 
 ## Facial recognition
+![Screenshot 2024-02-03 200533](https://github.com/mitravinda462/Face-photo-sketch-synthesis-and-Recognition/assets/53876415/fc14842b-d95e-44dd-a9c2-6412511f190c)
+
 ### Requirements : 
 ORL dataset 
 ### Commands : 
