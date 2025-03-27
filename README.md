@@ -11,7 +11,7 @@ ii) For a given input face-sketch, obtaining an output face-photo
 iii) Recognition of the face-photo or the face-sketch in the database for a given query
 face-sketch or face-photo respectively
 
-##Find the project's research paper here: https://doi.org/10.1007/978-3-031-12413-6_7
+<b>Find the project's research paper here:</b> https://doi.org/10.1007/978-3-031-12413-6_7
 ## Face sketch synthesis 
 ![Screenshot 2024-02-03 200328](https://github.com/mitravinda462/Face-photo-sketch-synthesis-and-Recognition/assets/53876415/94f7e4a4-0ceb-4de8-9c9e-e7936b042052)
 
